@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "functions": { "api/**/*.js": { "runtime": "nodejs20.x" } },
+  "rewrites": [
+    { "source": "/tools/form", "destination": "/api/tools/form" },
+    { "source": "/status/healthz", "destination": "/api/status/healthz" },
+    { "source": "/status/health", "destination": "/api/status/health" }
+  ],
+  "redirects": [
+    { "source": "/", "destination": "/tools/form", "permanent": false }
+  ]
+}

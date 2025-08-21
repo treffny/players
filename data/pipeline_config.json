@@ -1,0 +1,5 @@
+{
+  "standard":{"tiers":["major","mid"],"lookbackHours":168,"maxPerFeed":3,"prefer":{"majors":3,"mids":2,"niche":2},"filterThemes":["C2/Networks","Autonomy"],"preferredPlatform":"both","strict":true,"autofix":true},
+  "linkedin":{"tiers":["major","mid"],"lookbackHours":168,"maxPerFeed":4,"prefer":{"majors":4,"mids":3},"filterThemes":["AI","Sovereignty"],"preferredPlatform":"linkedin","strict":true,"autofix":true},
+  "xfast":{"tiers":["major"],"lookbackHours":72,"maxPerFeed":2,"prefer":{"majors":5},"preferredPlatform":"x","strict":true,"autofix":true}
+}

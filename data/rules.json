@@ -1,0 +1,8 @@
+{
+  "Autonomy": ["autonomy","autonomous","uas","drone","swarm","ugv","uav","counter-uas","c-uas"],
+  "Sensors/ISR": ["sensor","radar","eo","ir","isar","isr","surveillance","imagery"],
+  "C2/Networks": ["c2","c4isr","comms","network","interoperability","link-16","satcom","mesh","tacnet"],
+  "Logistics": ["resupply","logistics","sustainment","supply chain","munitions","fuel"],
+  "Cyber/Security": ["cyber","zero trust","hardening","jamming","ew","ecm","eccm","spoofing"],
+  "DePIN/Space": ["depin","blockchain","satellite","leo","constellation","earth observation","geospatial"]
+}

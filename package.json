@@ -1,0 +1,9 @@
+{
+  "name": "sixth-field-players-watch",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

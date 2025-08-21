@@ -1,0 +1,5 @@
+{
+  "standard":{"type":"buffer","timezone":"Europe/Amsterdam","timeByPlatform":{"x":"09:00","linkedin":"11:00"}},
+  "linkedin":{"type":"hootsuite","timezone":"Europe/Amsterdam","time":"10:00"},
+  "xfast":{"type":"buffer","timezone":"Europe/Amsterdam","time":"08:00"}
+}
