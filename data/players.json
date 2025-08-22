@@ -1,16 +1,4 @@
 [
-  { "name":"BAE Systems","tier":"major","handles":{"x":"BAESystemsplc","linkedin":"baesystems"},
-    "feeds":[{"type":"rss","url":"https://www.baesystems.com/en/media-centre/rss/news"}]},
-  { "name":"Anduril","tier":"mid","handles":{"x":"AndurilTech","linkedin":"anduril-industries"},
-    "feeds":[{"type":"rss","url":"https://www.anduril.com/newsroom/rss.xml"}]},
-  { "name":"Thales","tier":"major","handles":{"x":"thalesgroup","linkedin":"thalesgroup"},
-    "feeds":[{"type":"rss","url":"https://www.thalesgroup.com/en/taxonomy/term/3611/feed"}]},
   { "name":"Lockheed Martin","tier":"major","handles":{"x":"LockheedMartin","linkedin":"lockheed-martin"},
     "feeds":[{"type":"rss","url":"https://news.lockheedmartin.com/news-releases?pagetemplate=rss"}]},
-  { "name":"RTX","tier":"major","handles":{"x":"RTXNews","linkedin":"rtx"},
-    "feeds":[{"type":"rss","url":"https://www.rtx.com/rss/news"}]},
-  { "name":"QinetiQ","tier":"mid","handles":{"x":"QinetiQ","linkedin":"qinetiq"},
-    "feeds":[{"type":"rss","url":"https://www.qinetiq.com/en/news/rss"}]},
-  { "name":"Drumgrange","tier":"mid","handles":{"x":"DrumgrangeLtd","linkedin":"drumgrange-ltd"},
-    "feeds":[{"type":"rss","url":"https://www.drumgrange.com/news/feed/"}]}
-]
+  ]
