@@ -5,7 +5,7 @@ const parser = new Parser();
 export default async function handler(req,res){
   try{
     const body = await getJSONBody(req);
-    const { lookbackHours=168, maxPerFeed=3, tiers=null } = body || {};
+    const { "lookbackHours": 720, "maxPerFeed": 4, "tiers": ["major","mid"] } = body || {};
     const players = await loadJSON('data/players.json', []);
     const selected = Array.isArray(tiers) ? players.filter(p=>tiers.includes(p.tier)) : players;
     const cutoff = Date.now() - lookbackHours*3600*1000;
